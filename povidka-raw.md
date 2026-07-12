@@ -14,7 +14,7 @@ Způsob komunikace zkoumáme."
 "A už se ozvala Jituš?"
 "Ještě ne. Asi s vámi nechce konzumovat v energetickém baru. Nedoporučuji znovu psát."
 To se jí nelíbí moje skvělý zářivý výběžky, nebo co?
-Určitě sou to ty výběžky, jak tady tvrdnu, mám je celý pomačkaný.
+Určitě jsou to ty výběžky, jak tady tvrdnu, mám je celý pomačkaný.
 
 
 Takhle to dál nejde.
@@ -142,7 +142,7 @@ V bezvědomí mě odnesli do stanu k jinému ležícímu tvrdo-kožci a v noci m
 
 Zase sedím na orbitě.
 Čekám na vyzvednutí mateřskou lodí, pomalu si narovnávám pochroumané výběžky, vstřebávám masivní infuze čisté energie a regeneruju.
-Dopisuji závěr bakalářky: "…a proto doporučuji zařazení do kategorie 'F' (nepřátelská, zakázaný kontakt)."
+Dopisuju závěr bakalářky: "…a proto doporučuji zařazení do kategorie 'F' (nepřátelská, zakázaný kontakt)."
 
 
 Dostal jsem za jedna.
