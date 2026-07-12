@@ -1,0 +1,9 @@
+repos:
+  - repo: local
+    hooks:
+      - id: generate-povidka
+        name: Generate povidka.md and check for changes
+        entry: bash -c 'make && git diff --exit-code povidka.md'
+        language: system
+        files: ^(povidka-raw\.md|povidka\.md)$
+        pass_filenames: false

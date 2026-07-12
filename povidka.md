@@ -4,10 +4,9 @@ csquotes: true
 ---
 
 # Mimozemšťan
-
 Už třetí den sedím tady nad modrozelenou planetou a jen čučím na přístroje. Jako ostatní z ročníku mě sem vysadila mateřská loď. Nesnáším stísněné prostory. Cítím se jako sardinka, zlaté zářivé výběžky mám celé pomačkané. Senzory sčítají ty dvounohé bytosti dole a vyhodnocují nevím co ještě.
 
-"Alfréde, dej mi přehled výzkumu," zavolal jsem asistenta. "Tady to je," ozval se. "Zkoumáme oblast u větší osady. Vysoká koncentrace dvounožců, asi 25 tisíc. Převládají měkko-kožci na bázi uhlíku a vody. Vzácně se vyskytují tvrdo-kožci se železným krunýřem, asi vůdčí kasta. Způsob komunikace zkoumáme." "A už se ozvala Jituš?" "Ještě ne. Asi s vámi nechce konzumovat v energetickém baru. Nedoporučuji znovu psát." To se jí nelíbí moje skvělý zářivý výběžky, nebo co? Určitě sou to ty výběžky, jak tady tvrdnu, mám je celý pomačkaný.
+"Alfréde, dej mi přehled výzkumu," zavolal jsem asistenta. "Tady to je," ozval se. "Zkoumáme oblast u větší osady. Vysoká koncentrace dvounožců, asi 25 tisíc. Převládají měkko-kožci na bázi uhlíku a vody. Vzácně se vyskytují tvrdo-kožci se železným krunýřem, asi vůdčí kasta. Způsob komunikace zkoumáme." "A už se ozvala Jituš?" "Ještě ne. Asi s vámi nechce konzumovat v energetickém baru. Nedoporučuji znovu psát." To se jí nelíbí moje skvělý zářivý výběžky, nebo co? Určitě jsou to ty výběžky, jak tady tvrdnu, mám je celý pomačkaný.
 
 Takhle to dál nejde. "Alfréde, musím odsud, tak s tou bakalářkou pohneme. Přečti mi zadání." "Zadání zní: základní průzkum nerozvinuté civilizace a její sociální interakce. Přidělená planeta Země má zatím hodnocení 'D-' (bez potenciálu). Základní pravidlo: pozorovat a nebýt pozorován, jinak hrozí opakování předmětu." "No, opakovat bych fakt nechtěl."
 
@@ -51,7 +50,7 @@ Náraz.
 
 Levné motory exoskeletu zavřískly v marné snaze udržet mě na místě. Pak jsem chvíli letěl a přistál do suspenze zeminy a vody. Omdlel jsem. V bezvědomí mě odnesli do stanu k jinému ležícímu tvrdo-kožci a v noci mě diskrétně vyzvedl můj modul.
 
-Zase sedím na orbitě. Čekám na vyzvednutí mateřskou lodí, pomalu si narovnávám pochroumané výběžky, vstřebávám masivní infuze čisté energie a regeneruju. Dopisuji závěr bakalářky: "…a proto doporučuji zařazení do kategorie 'F' (nepřátelská, zakázaný kontakt)."
+Zase sedím na orbitě. Čekám na vyzvednutí mateřskou lodí, pomalu si narovnávám pochroumané výběžky, vstřebávám masivní infuze čisté energie a regeneruju. Dopisuju závěr bakalářky: "…a proto doporučuji zařazení do kategorie 'F' (nepřátelská, zakázaný kontakt)."
 
 Dostal jsem za jedna.
 
