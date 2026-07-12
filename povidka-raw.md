@@ -91,8 +91,10 @@ Plechové nástroje spustily melodii a dav začal šílet.
 Tohle vůbec neprobíhalo tak, jak jsem si představoval.
 "Alfréde, co se bude dít teď?"
 "Situaci odhaduji na nějaké formální přivítání nebo…" mlel Alfréd, ale já ho nevnímal.
-Tvrdo-kožec přede mnou sklopil tyč a rozjel se.
-Dav začal skandovat.
+Tvrdo-kožec přede mnou na mě kývl a začal se rozjíždět ke mně.
+Bylo úžasné, jak dokázal tu bestii pod sebou ovládat bez pomoci stojících měkko-kožců.
+Soustředil jsem se na něj až ve chvíli, kdy svou tyč sklopil přímo na mě.
+Dav se zesynchronizoval a začal skandovat podivné melodické zvuky.
 
 
 20 metrů.
@@ -105,31 +107,31 @@ Něco se mi tu nezdá.
 10 metrů.
 
 
-"Alfréd ví, že nechci propadnout, ale prý to ještě můžu nějak uhrát…" Dupot druhého zvířete byl slyšet i přes hluk z davu.
+"Alfréd ví, že nechci propadnout, ale prý to ještě můžu nějak uhrát…" Dupot zvířete pod druhým tvrdo-kožcem byl slyšet i přes hluk z davu, ta bestie se zdála mnohem masivnější než ta moje.
 
 
 5 metrů.
 
 
-Tyč toho druhého mířila na střed mého obleku.
-"Alfréde, udělej něco!" Dav freneticky řval.
-Bestie pode mnou na mě otočila hlavu s tázavým výrazem.
+Tyč toho druhého mířila přímo na střed mého obleku a navzdory skákavému běhu se ani nezachvěla.
+"Alfréde, udělej něco!" Dav freneticky řval a bestie pode mnou otočila hlavu s tázavým pohledem.
 
 
 1 metr.
 
 
-Začíná mi být jasné co se stane.
-Instinktivně jsem zatáhl výběžky.
-Kdyby naše rasa polykala, polkl bych.
+Začíná mi být jasné, co se stane.
+Dupot kopyt, řev davu, naprostý zmatek.
+Instinktivně jsem stáhl všechny své zářící výběžky do sebe.
+Kdyby naše rasa polykala, teď bych polknul.
 
 
 Náraz.
 
 
-Levné motory exoskeletu zařvaly a neudržely nápor. Vyletěl jsem ze sedla do bláta a omdlel.
-Z černé skříňky vím, že mě stále v bezvědomí odnesli do stanu k jinému ležícímu tvrdo-kožci.
-V noci mě pak diskrétně vyzvedl můj modul.
+Levné motory exoskeletu zařvaly v marné snaze udržet mě na místě, ten šílený nápor nezvládly.
+Vyhodilo mě to ze sedla do suspenze zeminy a vody na zemi a omdlel jsem.
+Z černé skříňky víme, že mě v bezvědomí odnesli do stanu k jinému ležícímu tvrdo-kožci a v noci mě diskrétně vyzvedl můj modul.
 
 
 Zase sedím na orbitě.
