@@ -33,3 +33,5 @@ Co je co:
 * Povídka jak jsem ji nadiktoval + pár základních oprav pomocí LLM: [povidka-original.md](povidka-original.md) (je potřeba výrazně zkrátit, co věta to řádek pro přehledné sledování změn)
 * Zdrojový soubor pro finální verzi, zkrácená a upravovaná jak ručně tak pomocí LLM: [povidka-raw.md](povidka-raw.md) (co věta to řádek pro přehledné sledování změn)
 * Finální verze povídky vytvořená automaticky příkazy výše: [povidka.md](povidka.md)
+* V rámci vylepšování podídky jsem si nechal vygenerovat toto hodnocení: [hodnoceni-llm.md](hodnoceni-llm.md)
+* Co se použití tokenů a ceny týče: [pouziti-llm.md](pouziti-llm.md)
