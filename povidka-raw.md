@@ -2,19 +2,19 @@ Už třetí den sedím tady nad modrozelenou planetou a jen čučím na přístr
 Jako ostatní z ročníku mě sem vysadila mateřská loď.
 Nesnáším stísněné prostory.
 Cítím se jako sardinka, zlaté zářivé výběžky mám celé pomačkané.
-Senzory sčítají ty dvounohé bytosti dole a vyhodnocují nevímco ještě.
+Senzory sčítají ty dvounohé bytosti dole a vyhodnocují nevím co ještě.
 
 
 "Alfréde, dej mi přehled výzkumu," zavolal jsem asistenta.
 "Tady to je," ozval se. "Zkoumáme oblast u větší osady.
 Vysoká koncentrace dvounožců, asi 25 tisíc.
 Převládají měkko-kožci na bázi uhlíku a vody.
-Vzácně se vyskytují tvrdo-kožci s železným krunýřem, asi vůdčí kasta.
+Vzácně se vyskytují tvrdo-kožci se železným krunýřem, asi vůdčí kasta.
 Způsob komunikace zkoumáme."
 "A už se ozvala Jituš?"
 "Ještě ne. Asi s vámi nechce konzumovat v energetickém baru. Nedoporučuji znovu psát."
 To se jí nelíbí moje skvělý zářivý výběžky, nebo co?
-Určitě sou to ty výběžky, jak tady tvrdnu, mám je celý pomačkaný."
+Určitě sou to ty výběžky, jak tady tvrdnu, mám je celý pomačkaný.
 
 
 Takhle to dál nejde.
@@ -41,7 +41,7 @@ My mluvíme pomocí infračerveného záření, ale nic takového neslyším.
 "Alfréde, má tenhle krám senzory?"
 "Standardní ne, ale můžu kreativně využít senzory z pohybového aparátu."
 "Jasně, udělej to."
-Oblek, zaskřípal, zastavil se a plácl sebou na zem.
+Oblek zaskřípal, zastavil se a plácl sebou na zem.
 Sakra, úplně cítím, jak se mi mačkají výběžky.
 "Alfréde!"
 "Promiňte, zapomněl jsem zmínit, že kalibrace vyžaduje odpojení motorů. Mám přestat?"
@@ -63,12 +63,12 @@ Bingo! "Pusť mi to."
 
 Hlasy: "Pán je asi zdaleka, nerozumí nám," říkal jeden dvounožec.
 "Asi omdlel, to se v tomhle horku běžně stává," druhý.
-"Hej, Toncku, skoč pro koně. Pomůžeme mu na turnaj, určitě nás odmění." třetí.
+"Hej, Toncku, skoč pro koně. Pomůžeme mu na turnaj, určitě nás odmění," třetí.
 
 
 Ničemu z toho jsem nerozuměl, překladač nemám.
 Vesničané mě vytáhli na velkou čtyřnohou bestii.
-Motory exoskeletu naskočili, tak jsem se stabilizoval.
+Motory exoskeletu naskočily, tak jsem se stabilizoval.
 "Už se vzpamatoval," jásali.
 Společně jsme se pohnuli k centru osady.
 
@@ -80,7 +80,7 @@ Zastavili jsme u nějakého důležitého měkko-kožce.
 "Úžasné, vy jste jistě Ulrich von Liechtenstein!" spustil.
 Zase jsem neměl ponětí, o co jde, ale průvodci se začali překřikovat:
 "Jo, to je on, Ulrich Vonlich. Vedem ho, páč se tu nevyzná a vomdlel."
-"Hele jaký má brnění, kůň je pod ním prohnutej jak bába s dvěma vědrama!"
+"Hele jaký má brnění, kůň je pod ním prohnutej jak bába se dvěma vědrama!"
 
 
 Odvedli mě na volné prostranství obklopené měkko-kožci.
@@ -107,7 +107,7 @@ Něco se mi tu nezdá.
 10 metrů.
 
 
-"Alfréd ví, že nechci propadnout, a prý to ještě můžu nějak uhrát…"
+Alfréd ví, že nechci propadnout, a prý to ještě můžu nějak uhrát…
 I přes toto ujištění však má nervozita stále rostla.
 Dupot zvířete pod druhým tvrdo-kožcem je teď slyšet i přes hukot davu.
 Jeho čtyřnožec se také zdá mnohem masivnější než ten můj.
