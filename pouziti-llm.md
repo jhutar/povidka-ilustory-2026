@@ -62,4 +62,4 @@ Po úvodním brainstormingu (přes Gemini WebUI) jsem použil gemini-cli a toto 
 ╰────────────────────────────────────────────────────────────────────────────────────╯
 ```
 
-Když se koukám na <https://aistudio.google.com/spend>, stálo mě to 87.33 CZK.
+Když se koukám na <https://aistudio.google.com/spend>, stálo mě to 17.03 CZK.
