@@ -1,4 +1,4 @@
-Sedím tady už třetí den nad modrozelenou planetou a jen čučím na přístroje.
+Už třetí den sedím tady nad modrozelenou planetou a jen čučím na přístroje.
 Jako ostatní z ročníku mě sem vysadila mateřská loď.
 Nesnáším stísněné prostory.
 Cítím se jako sardinka, zlaté zářivé výběžky mám celé pomačkané.
@@ -142,7 +142,7 @@ V bezvědomí mě odnesli do stanu k jinému ležícímu tvrdo-kožci a v noci m
 
 Zase sedím na orbitě.
 Čekám na vyzvednutí mateřskou lodí, pomalu si narovnávám pochroumané výběžky, vstřebávám masivní infuze čisté energie a regeneruju.
-Dopisuji závěr bakalářky: "Doporučuji zařazení do kategorie 'F' (nepřátelská, zakázaný kontakt)."
+Dopisuji závěr bakalářky: "…a proto doporučuji zařazení do kategorie 'F' (nepřátelská, zakázaný kontakt)."
 
 
 Dostal jsem za jedna.
