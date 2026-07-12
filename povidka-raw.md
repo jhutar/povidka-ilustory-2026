@@ -92,9 +92,9 @@ Tohle vůbec neprobíhalo tak, jak jsem si představoval.
 "Alfréde, co se bude dít teď?"
 "Situaci odhaduji na nějaké formální přivítání nebo…" mlel Alfréd, ale já ho nevnímal.
 Tvrdo-kožec přede mnou na mě kývl a začal se rozjíždět ke mně.
-Bylo úžasné, jak dokázal tu bestii pod sebou ovládat bez pomoci stojících měkko-kožců.
-Soustředil jsem se na něj až ve chvíli, kdy svou tyč sklopil přímo na mě.
-Dav se zesynchronizoval a začal skandovat podivné melodické zvuky.
+Jak dokázal svého čtyřnožce rozpohybovat sám?
+Pak ale tvrdo-kožec sklopil svou tyč dolů, směrem přímo na mě.
+Dav se zesynchronizoval a začal podivně melodicky skandovat.
 
 
 20 metrů.
@@ -107,21 +107,26 @@ Něco se mi tu nezdá.
 10 metrů.
 
 
-"Alfréd ví, že nechci propadnout, ale prý to ještě můžu nějak uhrát…" Dupot zvířete pod druhým tvrdo-kožcem byl slyšet i přes hluk z davu, ta bestie se zdála mnohem masivnější než ta moje.
+"Alfréd ví, že nechci propadnout, a prý to ještě můžu nějak uhrát…"
+I přes toto ujištění však má nervozita stále rostla.
+Dupot zvířete pod druhým tvrdo-kožcem je teď slyšet i přes hukot davu.
+Jeho čtyřnožec se také zdá mnohem masivnější než ten můj.
 
 
 5 metrů.
 
 
-Tyč toho druhého mířila přímo na střed mého obleku a navzdory skákavému běhu se ani nezachvěla.
-"Alfréde, udělej něco!" Dav freneticky řval a bestie pode mnou otočila hlavu s tázavým pohledem.
+Tyč toho druhého mířila přímo na střed mého obleku a navzdory běhu jeho zvířete se ani nezachvěla.
+Ač primitivní, vzhledem k okolnostem vypadala poměrně nebezpečně.
+"Alfréde? Tohle se mi nelíbí, udělej něco!"
+Melodické skandování davu se změnilo ve frenetický řev.
 
 
 1 metr.
 
 
 Začíná mi být jasné, co se stane.
-Dupot kopyt, řev davu, naprostý zmatek.
+Dupot běžícího čtyřnožce, řev davu, naprostý zmatek.
 Instinktivně jsem stáhl všechny své zářící výběžky do sebe.
 Kdyby naše rasa polykala, teď bych polknul.
 
@@ -129,9 +134,10 @@ Kdyby naše rasa polykala, teď bych polknul.
 Náraz.
 
 
-Levné motory exoskeletu zařvaly v marné snaze udržet mě na místě, ten šílený nápor nezvládly.
-Vyhodilo mě to ze sedla do suspenze zeminy a vody na zemi a omdlel jsem.
-Z černé skříňky víme, že mě v bezvědomí odnesli do stanu k jinému ležícímu tvrdo-kožci a v noci mě diskrétně vyzvedl můj modul.
+Levné motory exoskeletu zavřískly v marné snaze udržet mě na místě.
+Pak jsem chvíli letěl a přistál do suspenze zeminy a vody.
+Omdlel jsem.
+V bezvědomí mě odnesli do stanu k jinému ležícímu tvrdo-kožci a v noci mě diskrétně vyzvedl můj modul.
 
 
 Zase sedím na orbitě.
