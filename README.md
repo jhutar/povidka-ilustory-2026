@@ -7,8 +7,20 @@ a zjednodušit proces tvorby. Každý krok je ve vlastním commitu s `Assisted-b
 nebo `Generated-by` trailerem pokud bylo použito LLM aby bylo vidět co jsem
 dělal já a co LLM a jak. Případné promty jsou v commit messages.
 
-Pro zobrazení finálního souboru:
+Pro kontrolu počtu znaků:
 
+```bash
+cat povidka-raw.md | tr '\n' ' ' | sed 's/   /\n\n/g' | wc --chars
 ```
-cat povidka.md | tr '\n' ' ' | sed 's/   /\n\n/g' | glow --pager
+
+Pro převod do finálního tvaru:
+
+```bash
+echo """---
+lang: cs-CZ
+csquotes: true
+---
+""" > povidka.md
+cat povidka-raw.md | tr '\n' ' ' | sed 's/   /\n\n/g' >> povidka.md
+pandoc --output povidka.pdf povidka.md
 ```
