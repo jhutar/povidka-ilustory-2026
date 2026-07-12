@@ -1,187 +1,117 @@
-Sedím tady už třetí den a pode mnou tak zvláštně barevná, modrozelená planeta a já jenom čučím na přístroje.
-Stejně jako všechny ostatní z mého ročníku mě sem vysadila mateřská loď.
-Nesnáším pobyt ve vesmíru.
-Nesnáším pobyt v uzavřených prostorách.
-Cítím se jako sardinka v plechovce, nemůžu se vůbec roztáhnout a mé zlatě zářivé výběžky jsou celé pomačkané.
-Přístroje sčítají všechny ty zvláštní dvounohé bytosti dole na té planetě a vyhodnocují jejich interakce, kdovíco, co já vím co ještě.
+Sedím tady už třetí den nad modrozelenou planetou a jen čučím na přístroje.
+Jako ostatní z ročníku mě sem vysadila mateřská loď.
+Nesnáším vesmír a stísněné prostory.
+Cítím se jako sardinka, zlaté zářivé výběžky mám celé pomačkané.
+Senzory sčítají ty dvounohé bytosti dole a vyhodnocují bůhvíco ještě.
 
 
-"Alfréde, dej mi aktuální přehled výzkumu," vyslal jsem vzkaz svému asistentovi.
-Vzápětí se ozval zpátky: "Samozřejmě, tady to máš.
-Dle zadání se zaměřujeme na malou oblast kolem větší osady na jednom z kontinentů.
-Je tam vysoká koncentrace dvounohých bytostí, odhadovaný počet 25 432.
-Nalezeny dva poddruhy.
-Převládající forma je založena na uhlíku a vodě, pracovní označení je 'měkko-kožci'.
-Výjimečně se vyskytuje forma s železným krunýřem, skeny vnitřní struktury jsou neprůkazné, pracovní označení 'tvrdo-kožci'.
-Komunikace infračerveným zářením vyloučena, teploty těl dvounožců téměř shodné, stejně tak elektromagnetické spektrum je čisté.
-Jiné prostředky komunikace se zkoumají.
-Je něco jiného, s čím bych ti mohl pomoct?"
-"Ne, to je dobrý, ozvu se.
-Nebo počkej.
-Už se ozvala Jituš?"
-"Odpověď od slečny Jituš ještě nemáme.
-Vím, že vám na tom záleží, ale možná si nepřeje s vámi konzumovat v energetickém baru.
-Doporučuji dotaz již znovu neposílat."
-"To se jí jako nelíbí moje skvělý zářivý výběžky, nebo jakej má jako problém?" zamyslím se.
-"Určitě sou to ty výběžky, jak tvrdnu na týhle lodi, mám je strašně pomačkaný."
+"Alfréde, dej mi přehled výzkumu," vzkázal jsem asistentovi.
+"Tady to máš," ozval se. "Zkoumáme oblast u větší osady.
+Vysoká koncentrace dvounožců, asi 25 432.
+Převládají měkko-kožci na bázi uhlíku a vody.
+Vzácně se vyskytují tvrdo-kožci s železným krunýřem.
+Elektromagnetické spektrum je čisté, komunikaci zkoumáme.
+Ještě něco?"
+"Ne. Nebo počkej, už se ozvala Jituš?"
+"Ještě ne. Asi s vámi nechce konzumovat v energetickém baru. Nedoporučuji znovu psát."
+"To se jí nelíbí moje skvělý zářivý výběžky, nebo co?" zamyslím se.
+"Určitě sou to ty výběžky, jak tady tvrdnu, mám je celé pomačkané."
 
 
-"Alfréde, musím se odsud dostat.
-Musíme s tou bakalářkou pohnout, jinak budu celej zmuchlanej.
-Přečti mi to zadání, pořád to zapomínám."
-"Zadání je základní průzkum nerozvinuté civilizace a její sociální interakce.
-Byla vám přidělena planeta Země ve Sluneční soustavě.
-Současné hodnocení civilizace je 'D-' (tj. nerozvinutá, bez potenciálu pro postup).
-Při této příležitosti zdůrazním základní pravidlo: pozorovat a nebýt pozorován.
-Při jeho nedodržení hrozí opakování předmětu."
-"No tak dělat to znova bych teda jako fakt nechtěl."
+"Alfréde, musím odsud, ať s tou bakalářkou pohneme. Přečti mi zadání."
+"Zadání zní: základní průzkum nerozvinuté civilizace a její sociální interakce.
+Země má hodnocení 'D-' (bez potenciálu).
+Základní pravidlo: pozorovat a nebýt pozorován, jinak hrozí opakování předmětu."
+"Dělat to znova bych fakt nechtěl."
 
 
-Tohle nikam nevede.
-Otřepu se ze zamyšlení.
-"Tady zvrchu se nic nedozvíme.
-Jituš má ráda bloby činu.
-Deme dolů.
-Připrav přestrojení.
-Třeba jako ta forma ze železa, ta se bude jednoduše napodobovat.
-Třeba se tam nějak vmáčknu." Alfréd se ozval: "Navrhuji exoskelet se zvýšenou pohyblivostí vhodný pro nečekané situace.
-Odhadovaná cena výroby je 500 kreditů, souhlasíte?"
-"Cože? To teda ne, to je můj rozpočet na týden.
-Vem nejlevnější variantu a ať to lítá."
+Tohle nikam nevede. "Shora nic nezjistíme. Jituš má ráda bloby činu. Deme dolů.
+Připrav přestrojení, třeba jako tvrdo-kožec ze železa, to snadno napodobíme."
+Alfréd se ozval: "Navrhuji pohyblivý exoskelet za 500 kreditů. Souhlasíte?"
+"To je můj týdenní rozpočet! Vem nejlevnější variantu a ať to lítá."
 
 
-Za chvíli mě už modul nenápadně vysazoval nedaleko hlavní osady.
-Na sobě jsem měl železný krunýř, jaký jsme viděli na těch několika, asi vůdčích, jedincích.
-Alfréd byl na příjmu, takže se mi nemohlo nic stát, a já se vydal k prvnímu srocení domů.
+Modul mě vysadil u osady. Měl jsem železný krunýř jako ti vůdčí jedinci.
+Alfréd byl na příjmu, takže se mi nemohlo nic stát, a já se vydal k domům.
 
 
-Zavelel jsem servomotorům a pomalu se začal belhat kupředu.
-Když jsem přicházel k těm domům, jaksi se kolem mě vytvořil hlouček měkko-kožných dvounožců.
-Pobíhali kolem mě a zřejmě se se mnou pokoušeli komunikovat.
-My, jakožto civilizovaná rasa, k dorozumívání používáme modulaci infračerveného záření, ale nic takovýho neslyším.
-"Hele, Alfréde, něco se mi určitě snaží říct.
-Má tenhle krám nějaký senzory?"
-"Bohužel tato verze nemá žádné standardní senzorové pole, ale pokud chcete, můžu se pokusit kreativně použít dostupné senzory,
-které jsou součástí pohybového aparátu."
-"Nevím, o čem mluvíš, ale jasně, udělej to a fofrem." Oblek se zastavil, zavrávoral a se mnou uvnitř se rozplácl na zemi.
-Úplně cítím, jak se mi mačkají mé krásné zářivé výběžky.
-"Alfréde!" zařval jsem, ale on se ozval dřív.
-"Promiňte," začal, "zapomněl jsem vás informovat, že použití senzorů ze zpětnovazebné smyčky bude vyžadovat dočasné odpojení motorů.
-Moc mě mrzí nepříjemnosti, které jsem způsobil.
-Mám přestat s analýzou senzorů?"
-Zaúpěl jsem: "Teď už je to jedno, dělej, ať to máme z krku."
-"Samozřejmě, ujišťuji vás, že na tom pracuje všech sedm mých dostupných sub-agentů."
-Proč já škudlil na asistentovi?
-Teď tu ležím na zemi na cizí planetě a nemůžu se ani hnout.
-Většina spolužáků má šestnáctiagentního, někdo i dvaatřicetiagentního asistenta.
-Chjo.
+Belhám se k domům, kde se kolem mě vytvořil hlouček měkko-kožců.
+Pobíhají kolem a zřejmě se snaží komunikovat. My používáme infračervené záření, ale nic takového neslyším.
+"Alfréde, má tenhle krám senzory?"
+"Standardní ne, ale můžu kreativně přepojit senzory z pohybového aparátu."
+"Jasně, udělej to." Oblek se zastavil a rozplácl se na zemi. Úplně cítím, jak se mi mačkají výběžky.
+"Alfréde!"
+"Promiňte, zapomněl jsem říct, že analýza vyžaduje odpojení motorů. Mám přestat?"
+"Teď už je to jedno, dělej, ať to máme z krku."
+"Samozřejmě, pracuje na tom všech sedm mých sub-agentů."
+Proč jsem škudlil? Ležím na zemi a nemůžu se hnout. Spolužáci mají 32agentní asistenty. Chjo.
 
 
 Zatímco Alfréd makal, měkko-kožní dvounožci mě začali zvedat ze země.
-Po chvíli se jim podařilo mě postavit a držet mě ve vodorovné pozici.
+Po chvíli se jim podařilo mě postavit a držet ve vodorovné pozici.
 Alfréd konečně oznámil úspěšné ukončení analýzy.
 Prý používají komunikaci na základě frekvenčně modulovaného tlakového přenosu.
-Whatever!
-Pusť mi to.
+Whatever! Pusť mi to.
 
 
-Spousta překrývajících se hlasů: "Pán je asi zdaleka, nerozumí nám," říkal jeden dvounožec.
-Další zase: "Asi omdlel, to se v tomhle horku běžně stává, věřte mi, co já už viděl rytířů."
-A pak zase další: "Hej, Toncku, skoč pro koně.
-Pomůžeme mu dostat se na turnaj.
-Když vyhraje, určitě nás odmění."
+Hlasy: "Pán je asi zdaleka, nerozumí nám," říkal jeden dvounožec.
+"Asi omdlel, to se v tomhle horku běžně stává, věřte mi, co já už viděl rytířů," druhý.
+"Hej, Toncku, skoč pro koně. Pomůžeme mu na turnaj, když vyhraje, určitě nás odmění."
 
 
-Ničemu z toho jsem nerozuměl, protože Alfréda nenapadlo vytvořit překladač.
-No nic, zanalyzujeme to později.
-Za chvíli mě půlka vesnice už tahala na hřbet velkého čtyřnohého zvířete.
-Pohybový aparát už byl zase funkční, takže jsem jakoby sevřel spodní výrůstky a stabilizoval se.
-"No vidíte, už se vzpamatoval," ozvalo se od měkko-kožců okolo.
-Naše skupinka se pohnula.
+Ničemu z toho jsem nerozuměl, překladač nemám.
+Vesničané mě vytáhli na velkou čtyřnohou bestii.
+Motory už fungovaly, tak jsem se stabilizoval. "Už se vzpamatoval," jásali.
+Pohnuli jsme se k osadě a projeli velkou kamennou bránou.
 
 
-Nijak jsem se nebránil, protože mě vedli směrem, kterým jsem stejně chtěl, a to k největšímu srocení lidí ve zmapované oblasti.
-Projeli velkou kamennou bránou a potom mezi spoustou kamenných budov.
+Sice jsem chtěl jen pozorovat, ale nepoznali mě, takže v pohodě.
 
 
-Sice jsem plánoval být jen pozorovatelem a přímo s místními neinteragovat, ale když už se to takhle vyvinulo, snad to ničemu nebude vadit.
-Nepoznali mě, takže OK.
+Zastavili jsme u jednoho tvrdo-kožce. "Úžasné, vy jste jistě Ulrich von Liechtenstein!" spustil.
+Zase jsem neměl ponětí, o co jde, ale průvodci se začali překřikovat:
+"Jo, to je on, Ulrich Vonlich. Vedem ho, páč se tu nevyzná a vomdlel."
+"Má fajnový brnění, kůň je pod ním prohnutej jak bába s dvěma vědrama!"
 
 
-Po chvíli jsme zastavili u jednoho tvrdo-kožného dvounožce.
-Ten na mě hned spustil: "Úžasné, jste jistě Ulrich von Liechtenstein."
-Zase jsem neměl ani nejmenší ponětí, o co jde, ale mezi mými průvodci to vyprovokovalo spoustu odpovědí.
-Překřikovali se: "Pane herolde, jo, to je určitě on, ten Ulrich Vonlich.
-My ho tady vedem, páč se tu nevyzná a vomdlel."
-Jinej zase: "No, on má moc fajnový brnění, tady strakáč normálně tahá plnej vůz dřeva a ani se nezpotí, a pod ním je prohnutej, jak když si naše bába nabere dvě vědra zároveň."
+Odvedli mě na volné prostranství obklopené lidmi.
+Vrazili mi dlouhou tyč a otočili mě proti jinému tvrdo-kožci.
+Plechové nástroje spustily melodii a dav začal šílet.
 
 
-Pak se nějak dohadovali a asi se něco rozhodlo, protože mě odvedli na prázdné prostranství obklopené hromadou dvounožců.
-Do ruky mi vrazili dlouhou tyč a otočili mě čelem k dalšímu tvrdo-kožci na podobném zvířeti.
-Ozvala se melodie vyluzovaná pomocí nějakých kónických plechových nástrojů, pak někdo zase něco krátce povídal, a pak dav okolo asi zešílel a začal vydávat spoustu zvuků zároveň.
+Tohle neprobíhalo vůbec tak, jak jsem si představoval.
+"Alfréde, co se bude dít teď?"
+"Situaci odhaduji na nějaké formální přivítání nebo..." mlel Alfréd, ale já ho nevnímal.
+Tvrdo-kožec přede mnou sklopil tyč přímo na mě a rozjel se.
+Dav začal skandovat.
 
 
-Tohle neprobíhalo vůbec tak, jak jsem si to představoval.
-"Alfréde? Co se bude dít teď?"
-"Situaci odhaduji na nějaké formální přivítání nebo..." začal Alfréd odpovídat a mlel a mlel.
-Ale já ho přestal poslouchat.
-Tvrdo-kožec přede mnou na mě kývl a začal se pomalu rozjíždět směrem ke mně.
-Bylo úžasné, jak dokázal tu bestii, na které seděl, ovládat i bez pomoci okolo stojících měkko-kožců.
-Co mě ale přimělo se na něj soustředit, bylo, když svou tyč sklopil a namířil přímo na mě.
-Dav měkko-kožců okolo se zesynchronizoval a začal skupinově vydávat podivné melodické zvuky.
-
-
-20 metrů k tomu blížícímu se tvrdo-kožci.
-
-
-Tvrdo-kožec se blížil poměrně rychle a stále zrychloval, a Alfréd stále mlel o tom, jaký protokol bych měl dodržet pro první kontakt s novým druhem, pokud nedokážu zachovat anonymitu.
+20 metrů.
+Tvrdo-kožec zrychloval a Alfréd stále mlel protokoly pro první kontakt.
 
 
 10 metrů.
-
-
-Alfréd prý ví, že se snažím vyhnout propadnutí z předmětu, ale prý, pokud to dobře zahraju...
-I přes toto ujištění má nervozita stále rostla.
-Zřetelně jsem slyšel dupot nohou zvířete pod druhým tvrdo-kožcem, který se zdál poněkud masivnější stavby než ten, na němž jsem seděl já.
+"Alfréd ví, že nechci propadnout, ale prý to mám nějak uhrát..." Dupot zvířete duněl.
 
 
 5 metrů.
-
-
-Druhý tvrdo-kožec teď jel velmi solidní rychlostí.
-Jeho tyč mi mířila přímo na střed exoskeletu a navzdory skákavému běhu jeho zvířete se téměř ani nezachvěla.
-Ač primitivní, vzhledem k okolnostem vypadala poměrně nebezpečně.
-"Alfréde? Tohle se mi nelíbí, udělej něco!"
-Melodické skandování davu se změnilo ve frenetický řev.
+Jeho tyč mířila na střed mého obleku. "Alfréde, udělej něco!" Dav freneticky řval.
 
 
 1 metr.
-
-
-Dupot zvířete, řev davu, mé zvíře na mě otočilo hlavu a i přes kulturní propast mezi námi jsem pochopil, že výraz mělo tázavý.
-Instinktivně jsem stáhl všechny své zářící výběžky do sebe.
-Náš druh nepolyká, ale kdybychom polykali, teď bych polknul.
+Bestie pode mnou na mě otočila hlavu s tázavým výrazem. Zatáhl jsem výběžky. Kdybychom polykali, polknu.
 
 
 Náraz.
 
 
-Levné servomotory, dimenzované na běžný pohyb a minimální zátěž, zařvaly marným pokusem udržet mě na místě.
-Náraz mě vyhodil ze hřbetu mého zvířete.
-Chvíli jsem letěl vzduchem, a pak jsem přistál v suspenzi zeminy a vody na zemi.
-Já si to samozřejmě nepamatuju, myslím, že jsem omdlel snad ještě před nárazem, ale tolik jsme zjistili analýzou černé skříňky z mého obleku.
+Levné motory neudržely zátěž. Vyletěl jsem ze sedla do bláta a omdlel.
+Z černé skříňky vím, že mě odnesli do stanu k jinému rytíři a v noci mě modul vyzvedl.
 
 
-Prý mě pak banda měkko-kožců odnesla do nějakého stanu, kde už ležel i jiný tvrdo-kožec.
-Když se pak setmělo, můj modul s Alfrédem mě diskrétně vyzvedli.
-
-
-Teď si pomalu narovnávám své pochroumané zářící výběžky a dostávám masivní infuze čisté energie.
-Mateřská loď je na cestě a vyzvedne mě během pár minut.
-Dopisuji závěr své bakalářské práce.
-
-
-...a tak, ač společnost na této planetě jeví známky počínající kulturnosti, doporučuji její zařazení do kategorie "F", tedy nepřátelské a se zakázaným kontaktem.
+Teď si pomalu narovnávám pochroumané výběžky a dostávám masivní infuze čisté energie.
+Mateřská loď mě brzy vyzvedne.
+Dopisuji bakalářku: "Doporučuji zařazení do kategorie 'F' – nepřátelská a se zakázaným kontaktem."
 
 
 Dostal jsem za jedna.
